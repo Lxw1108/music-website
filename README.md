@@ -96,7 +96,7 @@ IDE：IntelliJ IDEA 2018、VSCode
 #### 1、下载项目到本地
 
 ```bash
-git clone https://github.com/Yin-Hongwei/music-website.git
+git clone https://github.com/Lxw1108/music-website.git
 ```
 
 #### 2、下载数据库中记录的资源
