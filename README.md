@@ -153,11 +153,12 @@ npm run dev // 启动后台管理项目
 ## 赞助
 
 如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
+![img_2.png](img_2.png)
 
 
-
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gsgm6jokvaj30gs0feadd.jpg)
-
+##欢迎讨论
+VX:most-sky    
+2: there_is_no_news
 
 
 ## License
